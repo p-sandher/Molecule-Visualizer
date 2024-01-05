@@ -62,6 +62,7 @@ This is a personal portfolio website to showcase my professional experience and 
 * [![Js][Js]][Js-url]
 * [![Python][Python]][Python-url]
 * [![Sql][Sql]][Sql-url]
+* [![jQuery][jQuery]][jQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,3 +121,5 @@ ReadME template is from
 [Python-url]: https://www.python.org/
 [Sql]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
 [Sql-url]: https://www.mysql.com/
+[jQuery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
+[jQuery-url]: https://jquery.com/
