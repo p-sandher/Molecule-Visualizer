@@ -47,8 +47,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Website Screen Shot][product-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
-
 Introducing my molecule visualizer project, a full-stack application designed to revolutionize molecular visualization. With the ability to rotate molecules along the x, y, and z axes at customizable degrees, this platform employs a seamless web interface for uploading CDF files. In the backend, C files handle the storage, retrieval, and sorting of atoms and bonds, while Python efficiently parses CDF files, storing the data in a MySQL database. The application then dynamically generates SVG files, providing an interactive and visually engaging representation of the molecular structures. Elevate your molecular exploration with this comprehensive and user-friendly tool.
 
 ### Built With
@@ -64,7 +62,9 @@ Introducing my molecule visualizer project, a full-stack application designed to
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## Example
 
+[![Website Screen Shot][interface-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
 
 <!-- CONTACT -->
 ## Contact
@@ -104,7 +104,7 @@ ReadME template is from
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
-[product-screenshot]: Website-Preview.png
+[interface-screenshot]: Interface.png
 
 
 [Html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
