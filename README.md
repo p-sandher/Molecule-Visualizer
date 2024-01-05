@@ -60,6 +60,8 @@ This is a personal portfolio website to showcase my professional experience and 
 * [![Css][Css]][Css-url]
 * [![Html][Html]][Html-url]
 * [![Js][Js]][Js-url]
+* [![Python][Python]][Python-url]
+* [![Sql][Sql]][Sql-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,5 +116,7 @@ ReadME template is from
 [Css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Js]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-
-
+[Python]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[Python-url]: https://www.python.org/
+[Sql]: https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+[Sql-url]: https://www.mysql.com/
