@@ -64,7 +64,8 @@ Introducing my molecule visualizer project, a full-stack application designed to
 
 ## Example
 
-[![Website Screen Shot][interface-screenshot]](https://p-sandher.github.io/puneet-sandher-website/)
+[![Website Screen Shot][interface-screenshot]]
+[![Website Screen Shot][rotations-screenshot]]
 
 <!-- CONTACT -->
 ## Contact
@@ -105,6 +106,7 @@ ReadME template is from
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
 [interface-screenshot]: Interface.png
+[rotations-screenshot]: caffeine_mol_rotations.png
 
 
 [Html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
