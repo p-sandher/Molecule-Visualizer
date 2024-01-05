@@ -1,0 +1,85 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: Geneva, sans-serif;
+    color: #65CCB8;
+    font-size: 3rem;
+    /* margin: 0; */
+    /* padding: 2rem;     */
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    color: #182629;
+    font-size: 1.5rem;
+    
+}
+
+.navbar {
+    padding: 1.5rem;
+    text-align: center;
+    background-color: #3B945E;
+    color: #182629;
+    font-family: Geneva, sans-serif;
+    font-size: 1rem;
+    overflow: hidden;
+}
+
+.navbar a {
+    
+    text-align: center;
+    padding: 1rem 3.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+    color: #182629;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+}
+  
+.navbar a:hover {
+    background-color: #57BA98;
+    color: #182629;
+}
+
+
+button {
+    background-color: #57BA98;
+    color: #000;
+    padding: 1rem 2rem;
+    text-align: center;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+}
+
+button:hover {
+    background-color: #65CCB8;
+    color: #000;
+}
+
+
+.elementClass {
+    position: relative;
+    left: 3rem;
+}
+
+.homePageClass {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.uploadClass {
+    position: relative;
+    left: 3rem;
+}

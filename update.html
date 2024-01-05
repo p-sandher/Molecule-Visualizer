@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Molecule Viewer</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+    <script src='script.js'></script>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="navbar">
+        <a class="active" href="index.html">Home</a>
+        <a href="update.html">Update Elements</a>
+        <a href="upload.html">Upload File</a>
+        <a href="list.html">Molecule Display</a>
+        
+    </div>
+    <h1>Update Elements</h1>
+
+    <form name="elementForm">
+        <label for="ELEMENT_NO">Element Number:</label><br>
+        <input type="number" id="ELEMENT_NO" name="ELEMENT_NO"><br>
+        <label for="ELEMENT_CODE">Element Code:</label><br>
+        <input type="text" id="ELEMENT_CODE" name="ELEMENT_CODE"><br>
+
+        <label for="ELEMENT_NAME">Element Name:</label><br>
+        <input type="text" id="ELEMENT_NAME" name="ELEMENT_NAME"><br>
+
+        <label for="COLOUR1">Element Colour 1:</label><br>
+        <input type="color" id="COLOUR1" name="COLOUR1" value="#FFA500"><br>
+
+        <label for="COLOUR2">Element Colour 2:</label><br>
+        <input type="color" id="COLOUR2" name="COLOUR2" value="#FFFF00"><br>
+
+        <label for="COLOUR3">Element Colour 3:</label><br>
+        <input type="color" id="COLOUR3" name="COLOUR3" value="#A020F0"><br>
+
+        <label for="RADIUS">Radius:</label><br>
+        <input type="number" id="RADIUS" name="RADIUS" value="20"><br><br>
+
+        <button type="button" id="elementFormSubmit">Upload Element</button>
+    </form>
+</body>
+</html>
