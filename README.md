@@ -79,7 +79,7 @@ Puneet Sandher -  puneetsandher@gmail.com
 
 Project Link: [https://github.com/p-sandher/puneet-sandher-website](https://github.com/p-sandher/puneet-sandher-website)
 
-Demo Link: [https://p-sandher.github.io/puneet-sandher-website/] (https://p-sandher.github.io/puneet-sandher-website/)
+Website Link: [https://p-sandher.github.io/puneet-sandher-website/] (https://p-sandher.github.io/puneet-sandher-website/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
