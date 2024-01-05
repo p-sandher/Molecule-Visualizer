@@ -56,7 +56,6 @@ This is a personal portfolio website to showcase my professional experience and 
 
 ### Built With
 
-* [![React][React.js]][React-url]
 * [![Css][Css]][Css-url]
 * [![Html][Html]][Html-url]
 * [![Js][Js]][Js-url]
