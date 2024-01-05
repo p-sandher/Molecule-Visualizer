@@ -63,6 +63,7 @@ This is a personal portfolio website to showcase my professional experience and 
 * [![Python][Python]][Python-url]
 * [![Sql][Sql]][Sql-url]
 * [![jQuery][jQuery]][jQuery-url]
+* [![C][C]][C-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,8 +110,7 @@ ReadME template is from
 [linkedin-url]: https://www.linkedin.com/in/puneet-sandher/
 [product-screenshot]: Website-Preview.png
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
+
 [Html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [Html-url]: https://html.com/
 [Css]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
@@ -123,3 +123,5 @@ ReadME template is from
 [Sql-url]: https://www.mysql.com/
 [jQuery]: https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white
 [jQuery-url]: https://jquery.com/
+[C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[C-url]: https://devdocs.io/c/
