@@ -64,8 +64,8 @@ Introducing my molecule visualizer project, a full-stack application designed to
 
 ## Example
 
-[![Website Screen Shot][interface-screenshot]
-[![Website Screen Shot][rotations-screenshot]
+![Website Screen Shot][interface-screenshot]
+![Website Screen Shot][rotations-screenshot]
 
 <!-- CONTACT -->
 ## Contact
