@@ -30,7 +30,7 @@
     <img src="puneet-sandher-logo.png" alt="Logo" width="200" height="200">
   </a>
 
-<h3 align="center">Puneet's Portfolio Website</h3>
+<h3 align="center">Molecule Visualizer</h3>
 
   <p align="center">
     <br />
@@ -75,7 +75,7 @@ Puneet Sandher -  puneetsandher@gmail.com
 
 Project Link: [https://github.com/p-sandher/puneet-sandher-website](https://github.com/p-sandher/puneet-sandher-website)
 
-Website Link: [https://p-sandher.github.io/puneet-sandher-website/] (https://p-sandher.github.io/puneet-sandher-website/)
+Website Link: [https://puneet-sandher.netlify.app/] (https://puneet-sandher.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
