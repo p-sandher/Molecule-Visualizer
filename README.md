@@ -37,8 +37,6 @@
     <a href="https://github.com/p-sandher/Molecule-Visualizer"><strong>Explore the Repo »</strong></a>
     <br />
     <br />
-    <a href="https://p-sandher.github.io/puneet-sandher-website/">View Website</a>
-
   </p>
 </div>
 
